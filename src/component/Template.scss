@@ -1,0 +1,99 @@
+.image{
+    width:15rem;
+    height:15rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+.organizerImg{
+
+    width:10rem;
+    height:10rem;
+}
+
+.about{
+    margin-left:0.5rem;
+}
+
+.colNavbar{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+}
+.media{
+   
+}
+.eventAbout{
+    margin-left: 5rem;
+}
+.eventAboutInfo{
+    margin-left: 0.1rem;
+
+}
+.button1{
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    
+    color: azure;
+}
+.button2{
+    
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    
+    
+}
+.exhibitor{
+    margin-top:0.5rem;
+}
+
+
+//
+.indicard{
+    width: 25rem;
+    
+    margin-left:1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    align-self: auto;
+  
+  }
+
+  .indiavatara{
+    vertical-align: middle;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+  }
+  .pictureu{
+    padding-left: 2.5rem;
+    padding-right:2.5rem;
+    height: 19rem;
+    
+    
+  }
+  .likeButton{
+    height: 2rem;
+    width: 3rem;
+
+  }
+
+@media (max-width:800px){
+    .eventAbout{
+        margin-left: 1rem;
+    }
+    .eventAboutInfo{
+        margin-left: 0.1rem;
+    }
+    
+.colNavbar{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+
+}
+}
